@@ -1,0 +1,41 @@
+:root{
+    --bg-blue: #93B5C9;
+    --bg-wine: #AB2849;
+}
+
+.background-wine{
+    background-color: var(--bg-wine);
+    color:var(--bg-wine)
+}
+
+body{
+    padding-left: 30%;
+    padding-right: 30%;
+    margin-top: 0;
+}
+
+nav{
+    background-color: var(--bg-blue);
+    color: var(--bg-blue);
+    height: 90px;
+}
+
+h1 {
+    margin-top: 0;
+    height: 180px;
+}
+
+div{
+    margin-left: 20%;
+    
+}
+
+div p{
+    height: 80px;
+}
+
+footer{
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 60px;
+}
